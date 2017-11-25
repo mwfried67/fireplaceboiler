@@ -1,5 +1,19 @@
 # fireplaceboiler
-PI based fireplace boiler controller software development
+****Using GIT****
+
+>To pull branch B1:
+git clone -b B1 https://github.com/mwfried67/fireplaceboiler.git
+
+Make some changes an then check status: git status
+Or check what branch you are working on: git branch
+
+Then stage changes for commit: git add .
+Then commit locally with comment: git commit -m "fixed path in boilercontrol.sh"
+Then push to branch B1: git push origin B1
+
+
+
+
 171112 Moving to Rasberry Pi3!!*****************************88
 Copied marcus_py and tried to run boilercontrol_9.py. Ran fine on RPi1. I get this error in thonny:
 Traceback (most recent call last):
